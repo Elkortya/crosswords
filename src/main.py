@@ -43,3 +43,5 @@ if __name__ == "__main__":
         if success or try_ == args.nb_tries -1:
             print("Saving result in res/result.png")
             make_pretty_output_out_of_grid(final_grid, grid.h, grid.w)
+        if success:
+            break
