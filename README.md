@@ -20,7 +20,8 @@ ___
 
 Some nice outputs (no fixed letters in initial grid) :
 
-![cw1](https://user-images.githubusercontent.com/69635385/124143996-dee83000-da8b-11eb-9584-137031a01c14.png)
-![cw2](https://user-images.githubusercontent.com/69635385/124144004-e0b1f380-da8b-11eb-96c6-08142712dad0.png)
-![cw3](https://user-images.githubusercontent.com/69635385/124144008-e1e32080-da8b-11eb-90d8-e56f9a4bf56e.png)
+![cw1](https://user-images.githubusercontent.com/69635385/124144499-54ec9700-da8c-11eb-879c-deec17b3df65.png)
+![cw2](https://user-images.githubusercontent.com/69635385/124144506-561dc400-da8c-11eb-9fad-39caef30e003.png)
+![cw3](https://user-images.githubusercontent.com/69635385/124144576-633ab300-da8c-11eb-92d7-cffe3b5f17f7.png)
+
 
